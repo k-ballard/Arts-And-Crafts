@@ -8,3 +8,15 @@
     font-weight: bold;
     color: white;
 }
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
