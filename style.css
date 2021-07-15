@@ -29,3 +29,8 @@
 .paint {
     background-color: skyblue;
 }
+
+.boldAndBlue {
+    font-weight: bold;
+    color: blue;
+}
