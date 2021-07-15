@@ -2,6 +2,14 @@
     font-family: Helvetica;
 }
 
+#pageTitle {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
 #sectionHeading {
     font-family: Helvetica;
     font-size: 32px;
